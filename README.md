@@ -5,8 +5,14 @@ Projeto focado para desenvolver conceitos de API, Web Framework, ORM(com o entit
 - .NET
   > ORM com Entity Framework..     
 - Vue.js
-  > Criação de componentes
-  
+  - Criação de componentes
+    - Modal
+    - Carrosel
+    - Dropdown
+      - menu Hamburguer
+    - Aba
+- Electron
+  - desenvolvimento multiplataforma
 ## Foco de desenvolvimento 
 - API
   1. Criar requisições PUT, DELETE, GET, UPDATE. Os documetnando com o swagger.
