@@ -1,6 +1,5 @@
 <script setup>
-import { RouterLink, RouterView } from 'vue-router';
-
+import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
@@ -9,6 +8,7 @@ import { RouterLink, RouterView } from 'vue-router';
     <strong>Rota atual: </strong> {{ $route.fullPath }}
     <nav> 
       <RouterLink to="/Product">Produto</RouterLink>
+      <RouterLink to="/Client">Cliente</RouterLink>
     </nav>  
   </header>
   <main>

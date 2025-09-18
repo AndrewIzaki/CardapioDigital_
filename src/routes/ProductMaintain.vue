@@ -1,10 +1,9 @@
 <script setup>
+import FormProduto from '@/components/FormProduto.vue';
 </script>
 <template>
-      <h2>Produto teste</h2>
-<label>
-</label>
-
+      <h1>Produto</h1>
+      <FormProduto/>
 <main>
 </main>
 </template>
